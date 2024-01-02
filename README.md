@@ -6,10 +6,9 @@ Plans for the portable 3D printed peristaltic pump for field use developed in th
 
 [![forthebadge](https://github.com/giovannellilab/Field_3D-printed_peristaltic_pump/blob/main/creative-commons-by-nc.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![forthebadge](https://github.com/giovannellilab/Field_3D-printed_peristaltic_pump/blob/main/made-with-3d-printer.svg)]
-[![forthebadge](https://github.com/giovannellilab/Field_3D-printed_peristaltic_pump/blob/main/made-for-the-field.svg)]
+[![forthebadge](https://github.com/giovannellilab/Field_3D-printed_peristaltic_pump/blob/main/made-with-3d-printer.svg)]()
+[![forthebadge](https://github.com/giovannellilab/Field_3D-printed_peristaltic_pump/blob/main/made-for-the-field.svg)]()
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
-
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/giovannellilab/Field_3D-printed_peristaltic_pump/graphs/commit-activity)
 [![giovannellilab](https://img.shields.io/badge/Mark-II-darkred)]()
