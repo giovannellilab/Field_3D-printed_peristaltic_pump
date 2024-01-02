@@ -14,7 +14,7 @@ Plans for the portable 3D printed peristaltic pump for field use developed in th
 [![giovannellilab](https://img.shields.io/badge/Mark-II-darkred)]()
 
 
-DThis GitHub repository provides the 3D printing STL files for a portable peristaltic pump. The original design of this pump is credited to PattysLab and can be found on Thingiverse [here](https://www.thingiverse.com/thing:4653708).
+This GitHub repository provides the 3D printing STL files for a portable peristaltic pump. The original design of this pump is credited to PattysLab and can be found on Thingiverse [here](https://www.thingiverse.com/thing:4653708).
 
 A peristaltic pump is a type of positive displacement pump that moves fluids through a flexible tube by squeezing and releasing it in a rolling motion. While there are several model commercially available on the web, we were looking for a compact, portable and reliable design. We made some minor mopdification to the design found on Thingiverse by Pattyslab and mounted it on a battery powered drill.
 
