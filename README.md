@@ -24,7 +24,7 @@ A new version of the pumop is currently under design (mark III).
 
 ### Credits
 - Adaptation: Matteo Selci and Luciano di Iorio / Giovannelli Lab ©2022
-- Original Design: [PattysLab on Thingiverse]((https://www.thingiverse.com/thing:4653708))
+- Original Design: [PattysLab on Thingiverse](https://www.thingiverse.com/thing:4653708)
 
 
 ### License
