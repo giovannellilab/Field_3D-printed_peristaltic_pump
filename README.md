@@ -1,7 +1,3 @@
-# Field_3D-printed_peristaltic_pump
-Plans for the portable 3D printed peristaltic pump for field use developed in the Giovannelli Lab
-
-
 # 3D printed field peristaltic pump for fluid sampling
 
 [![forthebadge](https://github.com/giovannellilab/Field_3D-printed_peristaltic_pump/blob/main/creative-commons-by-nc.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
